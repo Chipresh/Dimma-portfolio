@@ -33,7 +33,8 @@ const Home = () => {
                 Always eager to take on new challenges and collaborate on exciting projects.</p>
             </div>
             <div className='my-6 mx-28 lg:mx-1 md:mx-7'>
-              <a href='https://drive.google.com/file/d/14jO_PTuFqwJoXMSIxUHjWfkVl_1EBtTg/view?usp=drive_link'>
+              <a href='https://drive.google.com/file/d/1zva7jv4260fjwdlWxYeMLrRJQYWPP7z4/view?usp=sharing'>
+                
                 <button data-aos="fade-left" className='bg-blue-700 w-fit px-2  h-12 rounded hover:bg-blue-300 my-2'>Download CV</button>
               </a>
             </div>
